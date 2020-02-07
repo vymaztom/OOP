@@ -1,0 +1,7 @@
+D:\xvymaz11\cv01\cv01\bin\Debug\cv01.exe.config
+D:\xvymaz11\cv01\cv01\bin\Debug\cv01.exe
+D:\xvymaz11\cv01\cv01\bin\Debug\cv01.pdb
+D:\xvymaz11\cv01\cv01\obj\Debug\cv01.csprojAssemblyReference.cache
+D:\xvymaz11\cv01\cv01\obj\Debug\cv01.csproj.CoreCompileInputs.cache
+D:\xvymaz11\cv01\cv01\obj\Debug\cv01.exe
+D:\xvymaz11\cv01\cv01\obj\Debug\cv01.pdb
