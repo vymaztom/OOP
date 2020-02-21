@@ -4,3 +4,9 @@ C:\Users\Student\Desktop\OOP\cv02\cv02\bin\Debug\cv02.pdb
 C:\Users\Student\Desktop\OOP\cv02\cv02\obj\Debug\cv02.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\OOP\cv02\cv02\obj\Debug\cv02.exe
 C:\Users\Student\Desktop\OOP\cv02\cv02\obj\Debug\cv02.pdb
+C:\Users\vymaztom\Desktop\VUT\OOP\OOP\cv02\cv02\bin\Debug\cv02.exe.config
+C:\Users\vymaztom\Desktop\VUT\OOP\OOP\cv02\cv02\obj\Debug\cv02.exe
+C:\Users\vymaztom\Desktop\VUT\OOP\OOP\cv02\cv02\obj\Debug\cv02.pdb
+C:\Users\vymaztom\Desktop\VUT\OOP\OOP\cv02\cv02\bin\Debug\cv02.exe
+C:\Users\vymaztom\Desktop\VUT\OOP\OOP\cv02\cv02\bin\Debug\cv02.pdb
+C:\Users\vymaztom\Desktop\VUT\OOP\OOP\cv02\cv02\obj\Debug\cv02.csprojResolveAssemblyReference.cache
