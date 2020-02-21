@@ -10,6 +10,8 @@ namespace cv03
     {
         static void Main(string[] args)
         {
+            Console.Write("ff");
+            Console.Write("ff");
         }
     }
 }
